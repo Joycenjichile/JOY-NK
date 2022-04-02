@@ -1,0 +1,28 @@
+.box3{
+    border: solid 5px blue;
+    text-align: center;
+    margin: 20px 35px 40px 35px;
+    padding:30px 40px 20px 40px;
+    width: 30%;
+    
+}
+  .box2{
+      border: solid 10px pink;
+      margin: 30px 50px 20px 40px;
+      padding: 14% 4% 1% 17%;
+      width: 70%;
+      
+  } 
+  .box1{
+      border: solid 10px black;
+      padding: 2% 5% 3% 10% ;
+      width: 30%;
+      margin: 10% 10% 10% 30%;
+      
+      
+  }
+  .title{
+      text-align: center;
+      margin-bottom: 5px;
+      
+  }    
